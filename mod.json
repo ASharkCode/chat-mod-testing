@@ -1,17 +1,17 @@
 {
-	"geode": "$GEODE_VERSION",
-	"gd": {
-		"win": "2.2081",
-		"android": "2.2081",
-		"mac": "2.2081",
-		"ios": "2.2081"
-	},
-	"id": "$MOD_ID",
-	"name": "$MOD_NAME",
-	"version": "$MOD_VERSION",
-	"developer": "$MOD_DEVELOPER",
-	"description": "$MOD_DESCRIPTION",
-	"dependencies": {
-		"geode.node-ids": ">=v1.20.0"
-	}
+    "geode": ">=5.2.0",
+    "gd": {
+        "win": "2.2081",
+        "android": "2.2081",
+        "mac": "2.2081",
+        "ios": "2.2081"
+    },
+    "id": "ashark.globedtextchat",
+    "name": "Globed Text Chat",
+    "version": "v1.0.0",
+    "developer": "AShark",
+    "description": "Superfly Live chat mod — corner and above-player chat for Globed 5.2+",
+    "dependencies": {
+        "geode.node-ids": ">=v1.20.0"
+    }
 }
